@@ -11,6 +11,7 @@
     <modules>
         <module>zookeeper</module>
         <module>hive</module>
+        <module>flume</module>
     </modules>
 
     <properties>

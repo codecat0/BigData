@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="zookeeper" />
         <module name="hive" />
+        <module name="flume" />
       </profile>
     </annotationProcessing>
   </component>
