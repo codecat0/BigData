@@ -12,6 +12,7 @@
         <module>zookeeper</module>
         <module>hive</module>
         <module>flume</module>
+        <module>kafka</module>
     </modules>
 
     <properties>
